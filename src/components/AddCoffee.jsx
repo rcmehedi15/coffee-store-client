@@ -1,6 +1,22 @@
 import React from 'react';
 
 const AddCoffee = () => {
+
+    const handleAddCoffee = event => {
+        event.preventDefault();
+        const form = event.target;
+        
+        const name = form.name.value;
+        const quantity = form.quantity.value;
+        const supplier = form.supplier .value;
+        const taste = form.taste.value;
+        const category = form.category.value;
+        const details = form.details.value;
+        const photo = form.name.value;
+        const newCoffee = { name, quantity, supplier, taste, category, details, photo }
+
+        console.log(newCoffee);
+    }
     return (
         <>
           <div className="bg-[#F4F3F0] p-24">
