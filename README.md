@@ -8,8 +8,9 @@
 </ul>
 <h4 > <span color: #329532;> Frontend</span> - HTML | TailwindCSS | React Js </h4>
 <h4 > <span color: #c8a30d;>Backend</span> - Json | Express Js | MongoDB </h4>   
+<br>
 <h1> DashBoard </h1>
-<img src="./project.png" alt="">
+<img src="./dash.png" alt="">
 <h1> Add Coffee </h1>
 <img src="./addcoffe.png" alt="">
 <h1> Success Toast </h1>
