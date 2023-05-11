@@ -1,10 +1,11 @@
 <img src="./project.PNG" alt="">
- <h1>CRUD Operation Using Tailwindcss | React </h1>
- <h3> Frontend - HTML | TailwindCSS | React Js </h3>
- <h3> Backend -Json | Express Js | MongoDB </h3>
+ <h1 style="align-items: center;">CRUD Operation </h1>
 
-    <ul>
+<h4 > <span style="color: #329532;"> Frontend</span> - HTML | TailwindCSS | React Js </h4>
+<h4 > <span style="color: #c8a30d;">Backend</span> - Json | Express Js | MongoDB </h4>   
+
+<ul>
       <li>Add Coffee</li>
       <li>Update Coffee</li>
       <li>Delete Coffee</li>
-    </ul>
+</ul>
